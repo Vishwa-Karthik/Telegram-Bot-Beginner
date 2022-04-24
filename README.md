@@ -1,4 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Vishwa-Karthik/Telegram-Bot-Beginner/total?logo=Github&style=for-the-badge)
+
+
 # Telegram-Bot-Beginner Tutorial
 #### A Beginner's roadmap to develop Telegram Bot using Python
 
